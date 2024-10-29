@@ -62,8 +62,7 @@ namespace SnakeScripts
                         float zoomAmount = scaleAmount is >= 0.2f and <= 0.5f ? 3f : 6f;
                         float maxZoom = 40f;
                         float currentZoom = CameraTopDown.Instance.GetZoomLevel();
-                        float newZoom =
-                            Mathf.Max(currentZoom + zoomAmount, maxZoom); 
+                        float newZoom = Mathf.Max(currentZoom + zoomAmount, maxZoom); 
 
                         CameraTopDown.Instance.DoZoom(newZoom, 0.5f); 
                         SoundManager.instance.PlaySound(SoundTypesEnum.SnekKill);
