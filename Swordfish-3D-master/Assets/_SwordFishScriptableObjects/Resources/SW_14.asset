@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_14
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 1589405023394571435, guid: 41275fd1d80682c42805336f14051bff,
+    type: 3}
+  bodyPrefab: {fileID: 2541223548967591561, guid: 4626d61073d7a3840998cbfa3a5a7647,
+    type: 3}
+  tailPrefab: {fileID: 4092115067201612238, guid: a1df6b6b018dda946a2cf0b0b6910405,
+    type: 3}
+  frontNosePrefab: {fileID: 5882815218320107465, guid: 9042aaee980c85946bd99a981f2c1284,
+    type: 3}
+  backNosePrefab: {fileID: 4092115067201612238, guid: fb5c4a0fd6cad2141bc736e5c147dd18,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: 1a51dd1eb27a1d74ea86e8f2255fdc15, type: 3}
+  swItem:
+    itemName: 14
+    price:
+      priceType: 0
+      amount: 50
+    avalability: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_03_DarthVader
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 7815350023766569671, guid: 77e3cdff46c5c194c8f6a6bbfd9ab2c2,
+    type: 3}
+  bodyPrefab: {fileID: 8050297297639101630, guid: ee6457b7570d46b4a9b8e4a5d76bf48e,
+    type: 3}
+  tailPrefab: {fileID: 6067783833420395065, guid: 236fb97814c8bc5409075e6877919060,
+    type: 3}
+  frontNosePrefab: {fileID: 2967537685394028308, guid: 6d49bcd8187d99e47b7314b96991b48c,
+    type: 3}
+  backNosePrefab: {fileID: 5034807025069441826, guid: 5d6e16ba46560e34fab8674f0236a81b,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: 201b7e878c3eb604aadb9b31b3381a0a, type: 3}
+  swItem:
+    itemName: Darth Vader
+    price:
+      priceType: 0
+      amount: 250
+    avalability: 0

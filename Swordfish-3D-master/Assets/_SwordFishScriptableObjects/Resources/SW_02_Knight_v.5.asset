@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_02_Knight_v.5
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 551441724984546358, guid: bc19d52c3674e104a9629e4bd2ab5cd2,
+    type: 3}
+  bodyPrefab: {fileID: 8676366217298582832, guid: a615b1e984c4a8d4690ae396409d5644,
+    type: 3}
+  tailPrefab: {fileID: 7648616063592451331, guid: 471e3b8f21735b749af03fa99b027286,
+    type: 3}
+  frontNosePrefab: {fileID: 4299098395748906774, guid: ded0bfe5ae640254cbd41e09ff4b2c77,
+    type: 3}
+  backNosePrefab: {fileID: 7648616063592451331, guid: 356f9d4219f51e843acdf34465d70a42,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: a1cc51a4be5f4ed45a0a4c78c0a7028a, type: 3}
+  swItem:
+    itemName: Bluish Knight
+    price:
+      priceType: 0
+      amount: 500
+    avalability: 1

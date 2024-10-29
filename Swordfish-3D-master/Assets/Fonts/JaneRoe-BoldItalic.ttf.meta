@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c3d209c708827d644861b95e15ed6665
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jane Roe
+  fontNames:
+  - Jane Roe
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69d7491445008964ab7eb819a06d8e3b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

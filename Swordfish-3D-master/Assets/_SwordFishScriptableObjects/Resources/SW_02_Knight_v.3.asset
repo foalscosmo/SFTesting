@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_02_Knight_v.3
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 551441724984546358, guid: 3d7c83d85aac242459afbb1b2b2cf4ea,
+    type: 3}
+  bodyPrefab: {fileID: 8676366217298582832, guid: 1f772bc99fce9b242b26951b15cb92fa,
+    type: 3}
+  tailPrefab: {fileID: 7648616063592451331, guid: d7a82ac22530b51498620bf946de6fbd,
+    type: 3}
+  frontNosePrefab: {fileID: 4299098395748906774, guid: 9a19baa407a9abe47a5b7f5ca4626394,
+    type: 3}
+  backNosePrefab: {fileID: 7648616063592451331, guid: db81b21fec8d9a54aa8cc12f34ecc38a,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: 21f6c0cab1cd3304b8e8ee8688e88f57, type: 3}
+  swItem:
+    itemName: Pink Knight
+    price:
+      priceType: 0
+      amount: 500
+    avalability: 1

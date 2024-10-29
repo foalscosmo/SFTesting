@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stop
+  - Ground
+  - Death
+  - zombie
+  - Zombie
+  - ZombieBody
+  - AI
+  - Movable
+  - Hittable
+  - AutoPilotTrriger
+  - Zombie1
+  - Zombie2
+  - Zombie3
+  - Zombie5
+  - Zombie4
+  - Bumper
+  - Destructible
+  - Weapon
+  - Snake
+  - Coin
+  - Nose
+  - Loading
+  - CornerCube
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Building
+  - PostProcessing
+  - Ground
+  - Zombie
+  - WheelCollider
+  - SmallBrokeObjects
+  - SW
+  - Wall
+  - Zombie2
+  - Zombie3
+  - Zombie4
+  - Zombie5
+  - DestructibleObjects
+  - Snake
+  - Collectable
+  - CoinMagnet
+  - RenderTexture
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

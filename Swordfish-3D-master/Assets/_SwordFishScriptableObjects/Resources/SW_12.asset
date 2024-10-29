@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_12
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 9019335272802413772, guid: b53b4d600f5d8924ea64de2f05ea5f6f,
+    type: 3}
+  bodyPrefab: {fileID: 5365908486947814789, guid: 6c12e585f22309e4d8c7c817167230ec,
+    type: 3}
+  tailPrefab: {fileID: 7421788126037623993, guid: aedd5fe01b44ddb4992d6a06cb55e354,
+    type: 3}
+  frontNosePrefab: {fileID: 6608004292210194614, guid: 947b4b7cface9b848b2673af07b18ea6,
+    type: 3}
+  backNosePrefab: {fileID: 4937344348633902543, guid: bc87700de27fd40429424f6596cc0e2d,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: 535386c88b433af4fab6ca7140c09ee0, type: 3}
+  swItem:
+    itemName: 12
+    price:
+      priceType: 0
+      amount: 50
+    avalability: 1

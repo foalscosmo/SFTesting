@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_02_Knight_v.8
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 551441724984546358, guid: 6da102770279eef42b6291819f938a4b,
+    type: 3}
+  bodyPrefab: {fileID: 8676366217298582832, guid: 43df6eb8ebcfa5340be4f4b344bdd48e,
+    type: 3}
+  tailPrefab: {fileID: 7648616063592451331, guid: 07f7c71990d79e541af40fa0bf6509bc,
+    type: 3}
+  frontNosePrefab: {fileID: 4299098395748906774, guid: e310d5652a784ae448227abd3411f83e,
+    type: 3}
+  backNosePrefab: {fileID: 7648616063592451331, guid: d301057bbda314044adb5fa1bdf93642,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: 9b4af48f0454b8e4b88d6fd44b7f188b, type: 3}
+  swItem:
+    itemName: LBlue Knight
+    price:
+      priceType: 0
+      amount: 500
+    avalability: 1

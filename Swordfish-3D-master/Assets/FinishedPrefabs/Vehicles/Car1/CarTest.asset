@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee2098b86ea5d4a8cec020b32c009c, type: 3}
+  m_Name: CarTest
+  m_EditorClassIdentifier: 
+  CarName: CarNumberOne
+  CarPrice: 1000
+  Health: 1000
+  Armor: 100
+  Damage: 25
+  MaxSpeed: 60
+  MaxReverseSpeed: 20
+  MotorForce: 500
+  Mass: 300
+  BoostMultiplier: 1.3
+  BoostTime: 1.3
+  BoostCoolDownTime: 1.3
+  MaxSteeringAngle: 45
+  DriveType: 0
+  Frame: {fileID: 1129177972989672, guid: 5e1ed36529949c5409cc6bab8e58e863, type: 3}
+  ArmorFrame: {fileID: 0}
+  Wheels: {fileID: 1996260373755416, guid: eb09658e3d265aa4a8b037ee37d97930, type: 3}
+  Engine: {fileID: 0}
+  Bumper: {fileID: 1706401072951592, guid: 394cfdeb41ca4ca479949728070760bb, type: 3}
+  BackBumper: {fileID: 0}

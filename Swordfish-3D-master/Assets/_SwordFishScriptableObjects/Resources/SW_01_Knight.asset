@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a1334acddb4a0fafbc82dd14410c36, type: 3}
+  m_Name: SW_01_Knight
+  m_EditorClassIdentifier: 
+  headPrefab: {fileID: 551441724984546358, guid: a3d7824255d68c04a845fa40b451718c,
+    type: 3}
+  bodyPrefab: {fileID: 8676366217298582832, guid: ddd6c29831b25104c96e02a4843fed94,
+    type: 3}
+  tailPrefab: {fileID: 7648616063592451331, guid: 67f34624c0754014a9ec9453914a7641,
+    type: 3}
+  frontNosePrefab: {fileID: 4299098395748906774, guid: d27ae8e358c13734e9f478543c14af9f,
+    type: 3}
+  backNosePrefab: {fileID: 7648616063592451331, guid: 8fdc68efc429a88439522d3c5f5db61f,
+    type: 3}
+  bodyCount: 1
+  swordFishIndex: 0
+  icon: {fileID: 21300000, guid: 9593c3fc6798be048ae542fb6d71b97f, type: 3}
+  swItem:
+    itemName: Knight
+    price:
+      priceType: 0
+      amount: 0
+    avalability: 0
